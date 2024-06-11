@@ -1,0 +1,15 @@
+.env
+#chat_history.db
+
+.idea/
+
+models/
+
+.venv/
+combined_faiss_index/
+
+uploads/
+
+keras/
+
+chat_history.db
