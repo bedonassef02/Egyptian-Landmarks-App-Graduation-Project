@@ -1,6 +1,6 @@
 # Egyptian Landmarks App
 
-![Egyptian Landmarks](https://images8.alphacoders.com/104/1048011.jpg)
+![Egyptian Landmarks](https://c4.wallpaperflare.com/wallpaper/529/70/359/sphynx-pyramid-egypt-old-building-wallpaper-preview.jpg)
 
 ## Table of Contents
 
